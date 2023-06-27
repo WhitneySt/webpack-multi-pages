@@ -1,0 +1,1 @@
+alert("Enlazado al wsp.html");
